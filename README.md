@@ -9,8 +9,8 @@
 The extension is available on both the Firefox Add-ons Store and the Chrome Web Store.
 <br>
 <br>
-<a href="https://addons.mozilla.org/addon/ublock-origin/"><img src="https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png"></a>
-<a href="https://addons.mozilla.org/addon/ublock-origin/"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+<a href="https://addons.mozilla.org/fr/firefox/addon/nftblocker-for-twitter/"><img src="https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png"></a>
+<a href="https://chrome.google.com/webstore/detail/nftblocker-for-twitter/maafcaodamkhklcfpdgmadkdecaihinp"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
 </p>
 
 ***
