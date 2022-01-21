@@ -47,7 +47,6 @@ function runLoop() {
 										loop++;
 										const toast_notifications = document.querySelectorAll("[data-testid='toast']");
 										for (const toast_notification of toast_notifications) {
-											console.log('test');
 											toast_notification.style.display = "none";
 										}
 									}, 10);

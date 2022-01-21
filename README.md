@@ -5,6 +5,16 @@
     NFTBlocker for Twitter
 </h1>
 
+<p align="center">
+The extension is available on both the Firefox Add-ons Store and the Chrome Web Store.
+<br>
+<br>
+<a href="https://addons.mozilla.org/addon/ublock-origin/"><img src="https://addons.cdn.mozilla.net/static/img/addons-buttons/AMO-button_1.png"></a>
+<a href="https://addons.mozilla.org/addon/ublock-origin/"><img src="https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png"></a>
+</p>
+
+***
+
 This extension automatically block anyone who has an hexagon-shaped profile picture (NFT bros) on Twitter.
 
 ## How to use the extension?
