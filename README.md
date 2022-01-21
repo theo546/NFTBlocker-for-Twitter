@@ -46,3 +46,9 @@ Then, to package for each browsers:
 `sh build-chrome.sh` to package for Google Chrome / Chromium.
 
 You can now import this extension in your favorite browser!
+
+***
+
+<p align="center">
+<img src="screenshots/screenshot1.webp" height="500">
+</p>
