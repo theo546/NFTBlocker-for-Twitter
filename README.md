@@ -50,5 +50,5 @@ You can now import this extension in your favorite browser!
 ***
 
 <p align="center">
-<img src="screenshots/screenshot1.webp" height="500">
+<img src="screenshots/screenshot1.webp" height="500" width="889">
 </p>
